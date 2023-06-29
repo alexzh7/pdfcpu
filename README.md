@@ -11,4 +11,4 @@ In the main.go you can test merging of two pdf files:
 
     make build
     bin/example_merge 
-The result file will be created in the ` cmd/example_merge` folder
+The result file will be created in the `cmd/example_merge` folder
