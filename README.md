@@ -1,5 +1,5 @@
 
-This is a fork of pdfcpu/pdfcpu, a lightweight version without unnecessary files that you don't use while working with its API. The original progect is ~330 Mb.
+This is a fork of pdfcpu/pdfcpu, a lightweight version without unnecessary files that you don't use while working with its API. The original project is ~330 Mb.
 
 Project link: pdfcpu.io/
 
